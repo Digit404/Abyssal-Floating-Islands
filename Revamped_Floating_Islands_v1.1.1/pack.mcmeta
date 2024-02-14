@@ -2,7 +2,7 @@
   "pack": {
     "description": [
       {
-        "text": "Revamped Floating Islands",
+        "text": "Abyssal Floating Islands",
         "color": "#ffa71a"
       },
       "\n",
@@ -11,8 +11,16 @@
         "color": "#AAAAAA"
       },
       {
-        "text": "Quidvio",
+        "text": "Quidvio ",
         "color": "#ffc76f"
+      },
+      {
+        "text": "also ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Digit",
+        "color": "#6f82ff"
       }
     ],
     "pack_format": 15,
